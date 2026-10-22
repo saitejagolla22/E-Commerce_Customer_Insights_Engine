@@ -1,0 +1,18 @@
+customers_data = {
+    "customer_id": [101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111],
+    "customer_name": [
+        "Asha Rao", "Ravi Kumar", "Meena Devi", "Kiran Reddy",
+        "Priya Nair", "Arjun Varma", "Sneha Paul", "Rahul Das",
+        "Divya Patel", "Nikhil Jain", "Anil Kumar"
+    ],
+    "city": [
+        "Hyderabad", "Vijayawada", "Visakhapatnam", "Bengaluru",
+        "Chennai", "Mumbai", "Pune", "Delhi", "Ahmedabad",
+        "Kolkata", "Guntur"
+    ],
+    "region": [
+        "South", "South", "South", "South", "South",
+        "West", "West", "North", "West", "East", "South"
+    ]
+}
+
