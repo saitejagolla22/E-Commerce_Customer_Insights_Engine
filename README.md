@@ -1,5 +1,5 @@
 # E-Commerce_Customer_Insights_Engine
-# GetIntern Week 2 Milestone Project
+## GetIntern Week 2 Milestone Project
 
 ### Objective
 The objective of this project is to combine customer and transactional datasets and extract useful business insights using Python and Pandas.
